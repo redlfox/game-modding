@@ -8,6 +8,8 @@
 - [AssetRipper/AssetRipper: GUI Application to work with engine assets, asset bundles, and serialized files](https://github.com/AssetRipper/AssetRipper)
 - [AIO-GAME/Unity.Asset.CLI: ✨ Asset Manager CLI ✨](https://github.com/AIO-GAME/Unity.Asset.CLI)
 
+---
+
 - ["dnspy" "UnityEngine" "FileNotFoundException: Could not load file or assembly" - Google Search](https://www.google.com/search?q=%22dnspy%22%20%22UnityEngine%22%20%22FileNotFoundException%3A%20Could%20not%20load%20file%20or%20assembly%22)
 - [Nick All-Star Brawl through Proton -- Not Working · Issue #313 · BepInEx/BepInEx](https://github.com/BepInEx/BepInEx/issues/313)
 - [[Help] Decoding/decrypting a text asset for a Unity game - Page 2](https://www.unknowncheats.me/forum/unity/382431-decoding-decrypting-text-asset-unity-game-2.html)
