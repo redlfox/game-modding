@@ -1,4 +1,12 @@
-#unity-modding
+# unity-modding
+
+- [tandalesc/unity_unpackager: .unitypackage Unpackager Script](https://github.com/tandalesc/unity_unpackager)
+- [cocoAutumn/AicEventEditor: The event editor of Japanese ryona ARPG "AliceinCradle" by NanameHacha (https://fantia.jp/fanclubs/24531)](https://github.com/cocoAutumn/AicEventEditor)
+- [AicEventEditor/HashCode.md at main · cocoAutumn/AicEventEditor](https://github.com/cocoAutumn/AicEventEditor/blob/main/HashCode.md)
+- [SeriousCache/UABE: Asset Bundle Extractor](https://github.com/SeriousCache/UABE)
+- [nesrak1/UABEA: c# uabe for newer versions of unity](https://github.com/nesrak1/UABEA)
+- [AssetRipper/AssetRipper: GUI Application to work with engine assets, asset bundles, and serialized files](https://github.com/AssetRipper/AssetRipper)
+- [AIO-GAME/Unity.Asset.CLI: ✨ Asset Manager CLI ✨](https://github.com/AIO-GAME/Unity.Asset.CLI)
 
 - ["dnspy" "UnityEngine" "FileNotFoundException: Could not load file or assembly" - Google Search](https://www.google.com/search?q=%22dnspy%22%20%22UnityEngine%22%20%22FileNotFoundException%3A%20Could%20not%20load%20file%20or%20assembly%22)
 - [Nick All-Star Brawl through Proton -- Not Working · Issue #313 · BepInEx/BepInEx](https://github.com/BepInEx/BepInEx/issues/313)
