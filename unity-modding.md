@@ -7,6 +7,7 @@
 - [nesrak1/UABEA: c# uabe for newer versions of unity](https://github.com/nesrak1/UABEA)
 - [AssetRipper/AssetRipper: GUI Application to work with engine assets, asset bundles, and serialized files](https://github.com/AssetRipper/AssetRipper)
 - [AIO-GAME/Unity.Asset.CLI: ✨ Asset Manager CLI ✨](https://github.com/AIO-GAME/Unity.Asset.CLI)
+- https://github.com/imadr/Unity-game-hacking
 
 ---
 
